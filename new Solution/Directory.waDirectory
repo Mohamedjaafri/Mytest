@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+
+<group ID="01000000000000000000000000000000" name="Admin"/>
+
+<group ID="02000000000000000000000000000000" name="Debugger"/>
+
+<group ID="F386A00519390B409AE79B93965DE423" name="user"/>
+
+<group ID="490128251FDA03439FD1104FE95F9E1A" name="newGroup1">
+
+	<include group="Admin" groupID="01000000000000000000000000000000"/>
+</group>
+
+<group ID="4F2C5340DEC0D649B864D30F5D34E375" name="user1">
+
+	<include group="Admin" groupID="01000000000000000000000000000000"/>
+
+</group>
+
+<group ID="2A5C213BE1E293418C64E04F5ED87374" name="administrateur">
+
+	<include group="Admin" groupID="01000000000000000000000000000000"/>
+
+</group>
+</directory>
